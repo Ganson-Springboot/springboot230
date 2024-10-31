@@ -8,7 +8,6 @@
 
 
 # springboot230基于Spring Boot在线远程考试系统的设计与实现
-# 0229springboot基于Spring Boot在线远程考试系统的设计与实现
 
 # 5系统实现
 ## 5.1管理员功能实现
